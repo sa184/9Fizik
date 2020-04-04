@@ -28,10 +28,15 @@ Wash the spinach and chop it.Then chop the onion.Put
 the olive in pan.Then put the onion and one spoon to
 mato sauce in pan.Put the spinachs in pan and add the
 spices.Some cook it in pan.Then crack the egg and 
-cook it again.Bon appetite.!(Resim kıyamadım)!
+cook it again.Bon appetite.!(Resim koyamadım)!
 
             Ailemin Vücut Kitle Endeksi
 
 Annem=33 kg/m2
-Babam=28.7 kg/m2
+Babam=28.7 kg/m2.    
 Ben=24.4 kg/m2
+
+Bilgilerim:
+
+Samet perçin
+No:45 sınıf:9/A
