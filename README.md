@@ -1,6 +1,6 @@
-# 9Fizik
-              Yumurtalı ıspanak (102 k/j)
-İçindekiler
+# 9Fizik.                                             
+              Yumurtalı ıspanak (102 k/j).                
+İçindekiler             
 -250 Gr ıspanak
 -1 soğan 
 -1 kaşık salça
@@ -32,9 +32,9 @@ cook it again.Bon appetite.!(Resim koyamadım)!
 
             Ailemin Vücut Kitle Endeksi
 
-Annem=33 kg/m2
-Babam=28.7 kg/m2.    
-Ben=24.4 kg/m2
+Annem:kilo=93 boy=168 endeks=33kg/m2 durum=1.seviye obez
+Babam:kilo=96 boy=182 endeks=28kg/m2 durum=biraz kilolu   
+Ben:kilo=78.2 boy=179 endeks=24kg/m2 durum=ideal kilo
 
 Bilgilerim:
 
